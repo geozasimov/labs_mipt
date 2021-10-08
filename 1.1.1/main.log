@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.27)  8 OCT 2021 01:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.27)  8 OCT 2021 05:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -823,20 +823,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-Overfull \hbox (77.44547pt too wide) in paragraph at lines 242--261
+Overfull \hbox (83.31903pt too wide) in paragraph at lines 242--260
  [] 
  []
 
+<schedule.jpg, id=66, 867.24pt x 578.16pt>
+File: schedule.jpg Graphic file (type jpg)
+<use schedule.jpg>
+Package pdftex.def Info: schedule.jpg  used on input line 265.
+(pdftex.def)             Requested size: 398.33858pt x 265.55983pt.
 
-! LaTeX Error: File `2' not found.
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 265--266
+ [] 
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.266     {\includegraphics[width=14cm]{2}
-                                          }
-? 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -846,7 +846,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Overfull \hbox (1.73079pt too wide) in paragraph at lines 276--277
+Overfull \hbox (1.73079pt too wide) in paragraph at lines 275--276
 []\T2A/cmr/m/n/12 В дан-ном слу-чае луч-ше вос-поль-зо-вать ме-то-дом Пир-со-на
  (хи-квадрат),
  []
@@ -859,7 +859,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6]
+[6 <./schedule.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -882,10 +882,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EB4CDC18479E29B541BA24A7A2D9C236;1479.
  ) 
 Here is how much of TeX's memory you used:
- 13032 strings out of 478994
- 190588 string characters out of 5858184
- 518751 words of memory out of 5000000
- 30297 multiletter control sequences out of 15000+600000
+ 13014 strings out of 478994
+ 190576 string characters out of 5858184
+ 516751 words of memory out of 5000000
+ 30291 multiletter control sequences out of 15000+600000
  413733 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,12n,77p,530b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -905,10 +905,10 @@ e/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/
 21/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021
 /texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/t
 exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on main.pdf (10 pages, 231162 bytes).
+Output written on main.pdf (10 pages, 365155 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
+ 142 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
  14 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
