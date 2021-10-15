@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.27)  8 OCT 2021 05:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.27)  15 OCT 2021 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -575,8 +575,6 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 39.
-
 (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
@@ -664,15 +662,7 @@ e
 \Gin@req@height=\dimen177
 \Gin@req@width=\dimen178
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-)
-Package hyperref Info: Link coloring ON on input line 53.
+Package hyperref Info: Link coloring OFF on input line 53.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -695,17 +685,7 @@ LaTeX Info: Redefining \nameref on input line 53.
 
  [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main
-.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.99     \newpage
-                  [1]
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
@@ -743,7 +723,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 120
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<1.png, id=42, 406.9357pt x 211.80669pt>
+<1.png, id=33, 406.9357pt x 211.80669pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 128.
@@ -823,11 +803,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-Overfull \hbox (83.31903pt too wide) in paragraph at lines 242--260
- [] 
- []
-
-<schedule.jpg, id=66, 867.24pt x 578.16pt>
+<schedule.jpg, id=58, 867.24pt x 578.16pt>
 File: schedule.jpg Graphic file (type jpg)
 <use schedule.jpg>
 Package pdftex.def Info: schedule.jpg  used on input line 265.
@@ -882,13 +858,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EB4CDC18479E29B541BA24A7A2D9C236;1479.
  ) 
 Here is how much of TeX's memory you used:
- 13014 strings out of 478994
- 190576 string characters out of 5858184
- 516751 words of memory out of 5000000
- 30291 multiletter control sequences out of 15000+600000
+ 12963 strings out of 478994
+ 189773 string characters out of 5858184
+ 510845 words of memory out of 5000000
+ 30247 multiletter control sequences out of 15000+600000
  413733 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,12n,77p,530b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,77p,530b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
@@ -905,10 +881,10 @@ e/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/
 21/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021
 /texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/t
 exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on main.pdf (10 pages, 365155 bytes).
+Output written on main.pdf (9 pages, 355419 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
+ 134 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  14 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
