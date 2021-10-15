@@ -1,21 +1,51 @@
-\documentclass[a4paper, 10pt]{article}%тип документа
+\documentclass[a4paper, 12pt]{article}%тип документа
 
-%Русский язык
-\usepackage[T2A]{fontenc} %кодировка
-\usepackage[utf8]{inputenc} %кодировка исходного кода
-\usepackage[english,russian]{babel} %локализация и переносы
+%%%Библиотеки
 
-%Вставка картинок
-\usepackage{graphicx}
-\graphicspath{{pictures/}}
-\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+    %Русский язык
+    \usepackage[T2A]{fontenc} %кодировка
+    \usepackage[utf8]{inputenc} %кодировка исходного кода
+    \usepackage[english,russian]{babel} %локализация и переносы
 
-%Графики
-\usepackage{pgfplots}
-\pgfplotsset{compat=1.9}
+    %Вставка картинок
+    \usepackage{graphicx}
+    \graphicspath{{pictures/}}
+    \DeclareGraphicsExtensions{.pdf,.png,.jpg}
 
-%Математика
-\usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools}
+    %Графики
+    \usepackage{pgfplots}
+    \pgfplotsset{compat=1.9}
+
+    %Математика
+    \usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools}
+
+    %\usepackage[warn]{mathtext}    
+    \usepackage[T2A]{fontenc}   %Кодировка
+    \usepackage[utf8]{inputenc} %Кодировка исходного текста
+    \usepackage[english, russian]{babel} %Локализация и переносы
+    \usepackage{caption}
+    \usepackage{gensymb}
+    %\usepackage{listings}
+    \usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools}
+    %\usepackage[warn]{mathtext}
+    %\usepackage[mathscr]{eucal}
+    %\usepackage{wasysym}
+    %\usepackage{graphicx} %Вставка картинок правильная
+    %\usepackage{pgfplots}
+    \usepackage{indentfirst}
+    %\usepackage{float}    %Плавающие картинки
+    %\usepackage{wrapfig}  %Обтекание фигур (таблиц, картинок и прочего)
+    \usepackage{fancyhdr}  %Загрузим пакет
+    %\usepackage{lscape}
+    %\usepackage{xcolor}
+    %\usepackage[normalem]{ulem}
+    
+    \usepackage{titlesec}
+    \titlelabel{\thetitle.\quad}
+
+    \usepackage{hyperref}
+
+%%%Конец библиотек
 
 %%%Настройка ссылок
 %%%    \hypersetup
@@ -56,7 +86,7 @@
     \vspace{1em}
 
     \begin{center}
-        \Large \textbf{1.1.4. змерение интенсивности радиационного фона}
+        \Large \textbf{1.1.4. Измерение интенсивности радиационного фона}
     \end{center}
 
     \vspace{2em}
@@ -76,7 +106,7 @@
 %%%Конец Титульника
 
 
-\maketitle
+\title
 \newpage
 \textbf{Теоритическая справка.} Если случайные события (регистрация частиц) однородны во времени и каждое последущее событие не зависит от того, когда и как случилось предыдущее, то такой процесс называется пуассоновским, а результататы - количество отсчётов в одном опыте - подчиняются так называемому распределению Пуассона. При больших числах отсчёт это распределение стремится к нулю. 
 
