@@ -1,0 +1,7 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Аннотация}{1}{section.1}%
+\contentsline {section}{\numberline {2}Теоретические сведения}{1}{section.2}%
+\contentsline {section}{\numberline {3}Оборудование и инструментальные погрешности}{3}{section.3}%
+\contentsline {section}{\numberline {4}Результаты измерений диаметра проволоки}{5}{section.4}%
+\contentsline {section}{\numberline {5}Результаты измерений сопротивления проволоки}{6}{section.5}%
+\contentsline {section}{\numberline {6}Выводы}{10}{section.6}%

@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.27)  11 DEC 2021 04:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.27)  11 DEC 2021 03:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/main.tex
-(/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/main.tex
+**/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/main_old.tex
+(/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/main_old.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 \@input{head.aux}
 \openout2 = `head.aux'.
 
-(/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/head.tex (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+(/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/head.tex (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
@@ -843,36 +843,34 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip76
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count329
 \l__pdf_internal_box=\box71
-) (/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/main.aux)
-\openout1 = `main.aux'.
+) (/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/main_old.aux)
+\openout1 = `main_old.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Info: Redefining \th on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Info: Redefining \th on input line 3.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
@@ -896,21 +894,15 @@ Package caption Info: End \AtBeginDocument code.
 \everyMPtoPDFconversion=\toks52
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
- on input line 20.
+ on input line 3.
 
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 3.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -920,12 +912,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count337
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
- (/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/main.out) (/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/main.out)
+LaTeX Info: Redefining \ref on input line 3.
+LaTeX Info: Redefining \pageref on input line 3.
+LaTeX Info: Redefining \nameref on input line 3.
 \@outlinefile=\write4
-\openout4 = `main.out'.
+\openout4 = `main_old.out'.
 
  [1
 
@@ -933,49 +924,63 @@ LaTeX Info: Redefining \nameref on input line 20.
 
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (6.13934pt too wide) in paragraph at lines 71--72
-[]\T2A/cmr/m/n/12 Детально ис-сле-ду-ют-ся си-сте-ма-ти-че-ская и слу-чай-ные по-греш-но-сти про-
+\tf@toc=\write5
+\openout5 = `main_old.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48     \newpage
+                  [1]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
  []
 
 
-Overfull \hbox (0.59221pt too wide) in paragraph at lines 74--78
-\T2A/cmr/m/n/12 об-на-ру-же-ния кос-ми-че-ских лу-чей и из-ме-ре-ния их ин-тен-сив-но-сти (по иони-
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 84.
+
+Overfull \hbox (0.79742pt too wide) in paragraph at lines 58--59
+[]\T2A/cmr/bx/n/12 Используются сле-ду-ю-щие ме-то-ды из-ме-ре-ний со-про-тив-ле-ния: 
+ []
+
+
+Overfull \hbox (3.36943pt too wide) in paragraph at lines 62--63
+\T2A/cmr/m/n/12 мик-ро-мет-ра. Де-таль-но ис-сле-ду-ет-ся си-сте-ма-ти-че-ские и слу-чай-ные по-греш-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 84.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 84.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 70.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 84.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 84.
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 70.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 70.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 84.
+(Font)              using `PD1/pdf/m/n' instead on input line 70.
 
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 84.
-LaTeX Font Info:    No file PUcmr.fd. on input line 84.
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 70.
+LaTeX Font Info:    No file PUcmr.fd. on input line 70.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 84.
+(Font)              using `PU/pdf/m/n' instead on input line 70.
 
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 84.
-
-Missing character: There is no С in font cmr12!
-<geiger.png, id=16, 258.9675pt x 523.9575pt>
-File: geiger.png Graphic file (type png)
-<use geiger.png>
-Package pdftex.def Info: geiger.png  used on input line 88.
-(pdftex.def)             Requested size: 113.81169pt x 199.16988pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -986,8 +991,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.89 \end{center}
-                  [1]
+l.75 
+      [1]
+<1.png, id=29, 406.9357pt x 211.80669pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 78.
+(pdftex.def)             Requested size: 312.9803pt x 162.9139pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -995,25 +1006,93 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2 </Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/geiger.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+[2 </Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Overfull \hbox (12.0592pt too wide) in paragraph at lines 100--100
+|[]\T2A/cmr/bx/n/17.28 Оборудование и ин-стру-мен-таль-ные по-греш-
+ []
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 103.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 103.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
+
+Missing character: There is no л in font cmr8!
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 103.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 103.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
+
+Missing character: There is no л in font cmr8!
+Missing character: There is no и in font cmr8!
+Missing character: There is no н in font cmr8!
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 104.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 104.
+
+Missing character: There is no ш in font cmr8!
+Missing character: There is no т in font cmr8!
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 105.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 105.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 105.
+
+Missing character: There is no м in font cmr8!
+Missing character: There is no к in font cmr8!
+Missing character: There is no м in font cmr8!
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 106.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 106.
+
+Missing character: There is no в in font cmr8!
+Missing character: There is no м in font cmr8!
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+LaTeX Warning: Reference `СЃРѕРїСЂ РѕР±СЂР°Р·С†Р°' on page 3 undefined on input line 110.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/main_old.tex:117: Package inputenc Error: Unicode character в€’ (U+2212)
+(inputenc)                not set up for use with LaTeX.
 
- []
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 ...ґРёР°РїР°Р·РѕРЅ РёР·РјРµСЂРµРЅРёР№: 10в€’
+                                                  4 вЂ“ 10 РћРј (РґР»СЏ РјРЅ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1031,15 +1110,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1048,8 +1118,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Overfull \hbox (0.4332pt too wide) in paragraph at lines 305--306
-[]\T2A/cmr/m/n/12 Сравним сред-не-квад-ра-тич-ные ошиб-ки от-дель-ных из-ме-ре-ний для двух
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Overfull \hbox (3.56558pt too wide) in paragraph at lines 160--160
+|[]\T2A/cmr/bx/n/17.28 Результаты из-ме-ре-ний со-про-тив-ле-ния про-
+ []
+
+
+Overfull \hbox (10.84428pt too wide) in paragraph at lines 162--163
+[]\T2A/cmr/m/n/12 Соберјм элек-три-че-скую схе-му $\OML/cmm/m/it/12 a\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 и про-во-дим из-ме-ре-ния вольт-амперной
  []
 
 
@@ -1060,6 +1150,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
+<schedule.jpg, id=62, 867.24pt x 578.16pt>
+File: schedule.jpg Graphic file (type jpg)
+<use schedule.jpg>
+Package pdftex.def Info: schedule.jpg  used on input line 189.
+(pdftex.def)             Requested size: 398.33858pt x 265.55983pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 189--190
+ [] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1067,9 +1167,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7]
-Missing character: There is no ; in font nullfont!
-
+[7 </Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/schedule.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1085,26 +1183,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9] (/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/main.aux)
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10] (/Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/main_old.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: There were undefined references.
+
+
+Package rerunfilecheck Warning: File `main_old.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main_old.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  960513C8C6AA0728ADD0A73A42AA1655;1562.
  ) 
 Here is how much of TeX's memory you used:
- 35569 strings out of 478994
- 788008 string characters out of 5858184
- 1217676 words of memory out of 5000000
- 52446 multiletter control sequences out of 15000+600000
- 414593 words of font info for 58 fonts, out of 8000000 for 9000
+ 35030 strings out of 478994
+ 772724 string characters out of 5858184
+ 1165363 words of memory out of 5000000
+ 51914 multiletter control sequences out of 15000+600000
+ 415733 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 109i,17n,108p,1140b,2150s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on /Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.4/main.pdf (10 pages, 190623 bytes).
+ 109i,12n,108p,804b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on /Users/zasimov/Desktop/work/labs_mipt/labs_geozasimov/1.1.1/main_old.pdf (12 pages, 385519 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
