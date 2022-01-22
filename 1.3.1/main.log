@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.27)  20 DEC 2021 11:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.27)  20 DEC 2021 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1194,42 +1194,48 @@ LaTeX Info: Redefining \nameref on input line 3.
 
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (1.57314pt too wide) in paragraph at lines 49--50
-[]\T2A/cmr/m/n/12 В дан-ной ра-бо-те ис-сле-ду-ет-ся вы-нуж-ден-ная пре-цес-сия
- ги-ро-ско-па, уста-
- []
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 63
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 57
 .
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 6
-3.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 63.
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 5
+7.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 57.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 63.
+(Font)              using `PD1/pdf/m/n' instead on input line 57.
 
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 63
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 57
 .
-LaTeX Font Info:    No file PUcmr.fd. on input line 63.
+LaTeX Font Info:    No file PUcmr.fd. on input line 57.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 63.
+(Font)              using `PU/pdf/m/n' instead on input line 57.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Overfull \hbox (19.97742pt too wide) in paragraph at lines 81--81
+|[]\T2A/cmr/bx/n/17.28 Оборудование и экс-пе-ри-мен-таль-ные по-греш-
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1243,13 +1249,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 \end{equation}
+l.87 \begin{center}
                     [1]
-<mahovik.jpeg, id=84, 536.0025pt x 626.34pt>
-File: mahovik.jpeg Graphic file (type jpg)
-<use mahovik.jpeg>
-Package pdftex.def Info: mahovik.jpeg  used on input line 101.
-(pdftex.def)             Requested size: 113.807pt x 142.2584pt.
+<lermant.jpeg, id=53, 456.70625pt x 803.0pt>
+File: lermant.jpeg Graphic file (type jpg)
+<use lermant.jpeg>
+Package pdftex.def Info: lermant.jpeg  used on input line 88.
+(pdftex.def)             Requested size: 142.2604pt x 284.534pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1259,7 +1265,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2 <./mahovik.jpeg>]
+[2 <./lermant.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1269,6 +1284,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
+<deltal.jpeg, id=67, 702.625pt x 788.9475pt>
+File: deltal.jpeg Graphic file (type jpg)
+<use deltal.jpeg>
+Package pdftex.def Info: deltal.jpeg  used on input line 133.
+(pdftex.def)             Requested size: 199.16736pt x 227.62119pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1277,21 +1298,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
-
- []
-
-<giroskop.jpeg, id=110, 817.0525pt x 724.7075pt>
-File: giroskop.jpeg Graphic file (type jpg)
-<use giroskop.jpeg>
-Package pdftex.def Info: giroskop.jpeg  used on input line 206.
-(pdftex.def)             Requested size: 147.0631pt x 130.44171pt.
-<kard.jpeg, id=111, 576.1525pt x 800.9925pt>
-File: kard.jpeg Graphic file (type jpg)
-<use kard.jpeg>
-Package pdftex.def Info: kard.jpeg  used on input line 213.
-(pdftex.def)             Requested size: 103.70297pt x 144.17242pt.
+[4 <./deltal.jpeg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1300,9 +1307,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5 <./giroskop.jpeg> <./kard.jpeg>]
-Overfull \hbox (19.97742pt too wide) in paragraph at lines 224--224
-|[]\T2A/cmr/bx/n/17.28 Оборудование и экс-пе-ри-мен-таль-ные по-греш-
+[5]
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 203.
+
+Missing character: There is no с in font cmr12!
+<dlp.jpeg, id=79, 1067.99pt x 659.46375pt>
+File: dlp.jpeg Graphic file (type jpg)
+<use dlp.jpeg>
+Package pdftex.def Info: dlp.jpeg  used on input line 206.
+(pdftex.def)             Requested size: 398.34418pt x 256.08293pt.
+
+Overfull \hbox (8.34418pt too wide) in paragraph at lines 206--207
+ [] 
  []
 
 
@@ -1314,156 +1331,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[8]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.395 ...& $\varepsilon_T$          & $\Omega$, c^
-                                                  -1 & $\sigma_{Omega}$, c^-...
-
-? 
-! Extra }, or forgotten $.
-<template> \unskip \hfil }
-                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
-l.395 ...varepsilon_T$          & $\Omega$, c^-1 &
-                                                   $\sigma_{Omega}$, c^-1 \\...
-
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.395 ...varepsilon_T$          & $\Omega$, c^-1 &
-                                                   $\sigma_{Omega}$, c^-1 \\...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.395 ...varepsilon_T$          & $\Omega$, c^-1 &
-                                                   $\sigma_{Omega}$, c^-1 \\...
-
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.395 ...  & $\Omega$, c^-1 & $\sigma_{Omega}$, c^
-                                                  -1 \\ \hline
-? 
-! Extra }, or forgotten $.
-<template> \unskip \hfil }
-                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
-l.395 ..., c^-1 & $\sigma_{Omega}$, c^-1 \\ \hline
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.395 ..., c^-1 & $\sigma_{Omega}$, c^-1 \\ \hline
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.395 ..., c^-1 & $\sigma_{Omega}$, c^-1 \\ \hline
-                                                  
-? 
-
-Overfull \hbox (69.63106pt too wide) in paragraph at lines 393--409
- [][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10]
-Overfull \hbox (0.26996pt too wide) in paragraph at lines 452--453
-[]\T2A/cmr/m/n/12 Значит за-ви-си-мость мож-но ап-прок-си-ми-ро-вать с по-мо-щь
-ю ме-то-да наи-
- []
-
-<omegaM.jpg, id=152, 867.24pt x 578.16pt>
-File: omegaM.jpg Graphic file (type jpg)
-<use omegaM.jpg>
-Package pdftex.def Info: omegaM.jpg  used on input line 455.
-(pdftex.def)             Requested size: 390.2544pt x 260.16959pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[11]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[12 <./omegaM.jpg>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[13]
-Overfull \hbox (3.44319pt too wide) in paragraph at lines 542--542
-|[]\T2A/cmr/bx/n/17.28 Определение ча-сто-ты вра-ще-ния ро-то-ра ги-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[14]
-Overfull \hbox (3.31201pt too wide) in paragraph at lines 606--608
-[]\T2A/cmr/m/n/12 В хо-де ра-бо-ты мы опре-де-ли-ли ча-сто-ту вра-ще-ния ро-то-
-ра гироскопа:$\OML/cmm/m/it/12 ^^W \OT1/cmr/m/n/12 =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 606--608
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 
  []
 
@@ -1475,7 +1343,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15]
+[7 <./dlp.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1484,45 +1361,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16] (./main.aux)
+[8] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EB526E62D576F6174B4D091D00627C2B;5073.
+(rerunfilecheck)             Checksum: 4B8B82A9DFC8839213EE44363ECE2C02;2009.
  ) 
 Here is how much of TeX's memory you used:
- 35173 strings out of 478994
- 774094 string characters out of 5858184
- 1180043 words of memory out of 5000000
- 52019 multiletter control sequences out of 15000+600000
- 418241 words of font info for 63 fonts, out of 8000000 for 9000
+ 35115 strings out of 478994
+ 773377 string characters out of 5858184
+ 1163461 words of memory out of 5000000
+ 51986 multiletter control sequences out of 15000+600000
+ 416575 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 109i,12n,108p,1373b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 109i,12n,108p,949b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
-al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texli
-ve/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive
-/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2
-021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/202
-1/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2021/
-texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2021/te
-xmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texm
-f-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/texmf-
-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2021/texmf-di
-st/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (17 pages, 517509 bytes).
+}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2
+021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on main.pdf (9 pages, 393640 bytes).
 PDF statistics:
- 256 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 84 words of extra memory for PDF output out of 10000 (max. 10000000)
 
